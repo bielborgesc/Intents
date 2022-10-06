@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="entrar_url">Entrar URL</string>
+    <string name="nenhuma_url">Nenhuma URL!</string>
+    <string name="entre_com_a_url">Entre com a URL</string>
+    <string name="confirmar_url">Confirmar URL</string>
+</resources>
